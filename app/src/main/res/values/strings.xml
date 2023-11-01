@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SafeDrop</string>
+    <string name="button_addSafedrop">Add Safedrop</string>
+    <string name="hint_safedropTitle">Safedrop Title</string>
+    <string name="hint_safedropDescription">Description </string>
+    <string name="menu_addSafedrop">Add</string>
+    <string name="menu_cancelSafedrop">Cancel</string>
+    <string name="enter_safedrop_title"> Please enter a Safedrop Title </string>
+    <string name="save_safedrop"> Save Safedrop </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_safedrop_image">Select safedrop image</string>
+    <string name="change_safedrop_image">Change safedrop image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="menu_deleteSafedrop">Delete</string>
+    <string name="hint_safedropSeverityLevel">Severity Level</string>
+    <string-array name="severity_level">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    <string name="splash_continue">Continue</string>
+    <string name="splash_title">Welcome Page</string>
+
+
+    <string name="splash_welcome">
+        Welcome to SafeDrop, our Community Watch App!\n\n
+
+        Empowering Delivery Drivers and Community Members.\n\n
+
+        Use this app to report incidents and red flags in your city, ensuring the safety of fellow drivers and community members.\n\n
+
+        Stay informed about high-risk areas and make informed decisions to safeguard your deliveries.\n\n
+
+        Together, lets create a safer and more secure environment for everyone.
+    </string>
+</resources>
